@@ -1,0 +1,13 @@
+{"level":"error","message":"Starting server...","timestamp":"2024-04-04T07:37:29.778Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'registration')","timestamp":"2024-06-03T09:01:15.664Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'email' of 'payload' as it is undefined.","timestamp":"2024-06-03T09:02:29.491Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'findOne')","timestamp":"2024-06-03T09:03:29.401Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'findOne')","timestamp":"2024-06-03T09:03:54.537Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:04:30.617Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:08:01.777Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:08:40.245Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:10:02.630Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'doc' of '(intermediate value)' as it is undefined.","timestamp":"2024-06-03T09:17:37.808Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'doc' of '(intermediate value)' as it is undefined.","timestamp":"2024-06-03T09:24:20.583Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'doc' of '(intermediate value)' as it is undefined.","timestamp":"2024-06-03T09:26:42.979Z"}
+{"level":"error","message":"Unhandled promise rejection: ReferenceError: msg is not defined","timestamp":"2024-06-03T09:28:46.707Z"}

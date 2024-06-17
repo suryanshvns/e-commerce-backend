@@ -1,0 +1,99 @@
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-03T08:28:54.991Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-03T09:05:34.931Z"}
+{"level":"info","message":"Server is running on port 3001","timestamp":"2024-04-03T09:13:05.509Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-04T07:19:25.304Z"}
+{"level":"info","message":"Starting server...","timestamp":"2024-04-04T07:36:48.591Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-04T07:36:48.607Z"}
+{"level":"error","message":"Starting server...","timestamp":"2024-04-04T07:37:29.778Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-04T07:37:29.796Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-04T11:31:42.480Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-04-04T11:31:46.086Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-04T11:34:06.587Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-04-04T11:34:09.436Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-09T09:37:35.290Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-04-09T09:37:50.330Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-04-09T09:37:58.296Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:04:38.790Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-05-31T06:04:55.847Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:05:12.383Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-05-31T06:05:49.164Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:05:51.629Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-05-31T06:07:20.238Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:39:36.118Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-05-31T06:40:16.242Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:43:17.986Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:44:05.324Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-05-31T06:44:52.669Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T06:46:44.470Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-05-31T13:59:59.621Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-05-31T14:03:05.427Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T08:38:32.481Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T08:38:36.379Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'registration')","timestamp":"2024-06-03T09:01:15.664Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T09:01:32.091Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T09:01:34.823Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T09:01:35.448Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T09:01:36.399Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:01:46.251Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:02:01.939Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:02:07.747Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:02:20.949Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'email' of 'payload' as it is undefined.","timestamp":"2024-06-03T09:02:29.491Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:02:38.225Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:03:21.491Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'findOne')","timestamp":"2024-06-03T09:03:29.401Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:03:51.836Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot read properties of undefined (reading 'findOne')","timestamp":"2024-06-03T09:03:54.537Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:04:27.802Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:04:30.617Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:05:20.483Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:07:17.900Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:08:01.777Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:08:25.863Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:08:40.245Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:09:56.413Z"}
+{"level":"error","message":"Unhandled promise rejection: Error: WHERE parameter \"email\" has invalid \"undefined\" value","timestamp":"2024-06-03T09:10:02.630Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:12:54.961Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:13:30.438Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:16:18.566Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:16:56.563Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:17:31.814Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'doc' of '(intermediate value)' as it is undefined.","timestamp":"2024-06-03T09:17:37.808Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:22:50.890Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:23:15.840Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:23:56.068Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'doc' of '(intermediate value)' as it is undefined.","timestamp":"2024-06-03T09:24:20.583Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:24:57.411Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:25:07.622Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:26:37.545Z"}
+{"level":"error","message":"Unhandled promise rejection: TypeError: Cannot destructure property 'doc' of '(intermediate value)' as it is undefined.","timestamp":"2024-06-03T09:26:42.979Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:27:40.976Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:28:39.128Z"}
+{"level":"error","message":"Unhandled promise rejection: ReferenceError: msg is not defined","timestamp":"2024-06-03T09:28:46.707Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:29:15.570Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:30:24.383Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:32:17.846Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T09:32:58.931Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:20:17.894Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:31:11.151Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:35:26.131Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:38:37.244Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:41:10.246Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:42:35.115Z"}
+{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:44:05.159Z"}
+{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T12:45:05.657Z"}
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:45:09.902Z"}[39m
+[32m{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T12:47:10.822Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:47:13.711Z"}[39m
+[32m{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-03T12:50:13.132Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3001","timestamp":"2024-06-03T12:51:30.010Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-03T12:55:32.316Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T11:40:12.734Z"}[39m
+[32m{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-04T11:42:04.486Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T11:42:06.876Z"}[39m
+[32m{"level":"info","message":"Received SIGINT, shutting down gracefully","timestamp":"2024-06-04T11:47:18.007Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T11:47:26.843Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T12:17:11.288Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T12:43:39.942Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T13:09:36.309Z"}[39m
+[32m{"level":"info","message":"Server is running on port 3000","timestamp":"2024-06-04T13:18:15.298Z"}[39m
